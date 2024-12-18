@@ -3,8 +3,8 @@ This project involves the analysis of healthcare-related data to derive insights
 
 ## Table of Contents
 - [About the Project](#about-the-project)
-- [Datasets Used](#Datasets Used)
-- [Key Features](#Key Features)
+- [Datasets Used](#Datasets-Used)
+- [Key Features](#Key-Features)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
